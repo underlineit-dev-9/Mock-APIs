@@ -1,25 +1,3 @@
 {
-  "users": {
-    "id": 123,
-    "firstName": "Veera",
-    "lastName": "Goriparthi",
-    "email": "veera@gmail.com",
-    "mobile no. ": 1234567897,
-    "gender": "male",
-    "age": 36,
-    "address": [
-      {
-        "address1": "address1",
-        "address2": "address2",
-        "suburb": "suburbName",
-        "state": "stateName",
-        "country": "country",
-        "postCode": "123456",
-        "googleLocation": {
-          "long": "34.7899",
-          "lat": "7878'88"
-        }
-      }
-    ]
-  }
+  "users": {}
 }
