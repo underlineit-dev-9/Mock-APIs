@@ -1,0 +1,11 @@
+{
+    "users":[
+        {"id":1,"name":"sai"},{"id":2,"name":"kumar"}
+
+    ],
+    "repositories":[
+        {"id":1,"url":"http/github.com/1","userId":1},
+        {"id":1,"url":"http/github.com/2","userId":1}
+    ]
+
+}
