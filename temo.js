@@ -907,6 +907,7 @@ let i=0
 tempLongLat = [...longLat,...longLat]
 address.map((item,nc)=>{
     item['geoLocation']=tempLongLat[i++]
+    console.log(item.geoLocation,'hii')
 })
 // console.log(address)
 console.log("line before users ")
@@ -1792,9 +1793,9 @@ let users= [
     }
   ]
   let z=0
-  console.log(users)
+  // console.log(users)
   users.map((item,nc)=>{
     item["address"]=address[z]
-    console.log(address[z])
+    // console.log(address[z])
   })
 console.log(users)
