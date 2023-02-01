@@ -1,0 +1,64 @@
+{
+    "tags":[{
+        "id": 1,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 2,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 3,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 4,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 5,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 6,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 7,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 8,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 9,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 10,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 11,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 12,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 13,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 14,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 15,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 16,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 17,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 18,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 19,
+        "hashTags": ["type1","type2","type3","type4"]
+      }, {
+        "id": 20,
+        "hashTags":["type1","type2","type3","type4"]
+      }]
+      
+}

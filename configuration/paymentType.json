@@ -1,0 +1,64 @@
+{
+    "payment":[{
+        "id": 1,
+        "paymentType": "free"
+      }, {
+        "id": 2,
+        "paymentType": "paid"
+      }, {
+        "id": 3,
+        "paymentType": "free"
+      }, {
+        "id": 4,
+        "paymentType": "paid"
+      }, {
+        "id": 5,
+        "paymentType": "free"
+      }, {
+        "id": 6,
+        "paymentType": "paid"
+      }, {
+        "id": 7,
+        "paymentType": "free"
+      }, {
+        "id": 8,
+        "paymentType": "paid"
+      }, {
+        "id": 9,
+        "paymentType": "paid"
+      }, {
+        "id": 10,
+        "paymentType": "paid"
+      }, {
+        "id": 11,
+        "paymentType": "free"
+      }, {
+        "id": 12,
+        "paymentType": "free"
+      }, {
+        "id": 13,
+        "paymentType": "free"
+      }, {
+        "id": 14,
+        "paymentType": "paid"
+      }, {
+        "id": 15,
+        "paymentType": "paid"
+      }, {
+        "id": 16,
+        "paymentType": "free"
+      }, {
+        "id": 17,
+        "paymentType": "free"
+      }, {
+        "id": 18,
+        "paymentType": "paid"
+      }, {
+        "id": 19,
+        "paymentType": "paid"
+      }, {
+        "id": 20,
+        "paymentType": "paid"
+      }]
+      
+}
