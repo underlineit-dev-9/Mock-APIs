@@ -10,6 +10,14 @@
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 7,
       "seatsCapacity": 81,
+      "address": {
+        "address1": "3121 Forest Dale Alley",
+        "address2": "PO Box 34549",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1033",
+        "geoLocation": { "lat": -10.1269585, "long": -63.8640569 }
+      },
       "tags": [
         "tag1",
         "tag2",
@@ -35,18 +43,6 @@
           }
         }
       ],
-      "venueAddress": {
-        "address1": "address1",
-        "address2": "address2",
-        "suburb": "suburbName",
-        "state": "stateName",
-        "country": "country",
-        "postCode": "123456",
-        "geoLocation": {
-          "long": 34.7899,
-          "lat": 78.7888
-        }
-      },
       "extraDetails": [
         {
           "question1": ""
@@ -76,7 +72,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 7,
-      "seatsCapacity": 81
+      "seatsCapacity": 81,
+      "address": {
+        "address1": "55 Florence Alley",
+        "address2": "Apt 1128",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1191",
+        "geoLocation": { "lat": 59.2830988, "long": 18.033347 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 3,
@@ -88,7 +134,58 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 9,
-      "seatsCapacity": 70
+      "seatsCapacity": 70,
+      "address": {
+        "address1": "2 Boyd Parkway",
+        "address2": "PO Box 97714",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1130",
+        "geoLocation": { "lat": 14.5919106, "long": 121.0228804 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
+
     },
     {
       "id": 4,
@@ -100,7 +197,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 10,
-      "seatsCapacity": 75
+      "seatsCapacity": 75,
+      "address": {
+        "address1": "598 Lukken Hill",
+        "address2": "16th Floor",
+        "state": "South Australia",
+        "country": "Australia",
+        "postalCode": "5899",
+        "geoLocation": { "lat": 28.871569, "long": 105.44174 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 5,
@@ -112,7 +259,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 5,
-      "seatsCapacity": 92
+      "seatsCapacity": 92,
+      "address": {
+        "address1": "1913 Forest Dale Avenue",
+        "address2": "Room 296",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postalCode": "6843",
+        "geoLocation": { "lat": 45.347492, "long": 130.642301 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 6,
@@ -124,7 +321,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 7,
-      "seatsCapacity": 195
+      "seatsCapacity": 195,
+      "address": {
+        "address1": "08 Washington Lane",
+        "address2": "14th Floor",
+        "state": "Victoria",
+        "country": "Australia",
+        "postalCode": "8383",
+        "geoLocation": { "lat": 30.39194, "long": 114.894843 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 7,
@@ -136,7 +383,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 7,
-      "seatsCapacity": 104
+      "seatsCapacity": 104,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 8,
@@ -148,7 +445,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 9,
-      "seatsCapacity": 52
+      "seatsCapacity": 52,
+      "address": {
+        "address1": "95 Carberry Center",
+        "address2": "Suite 17",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postalCode": "6843",
+        "geoLocation": { "lat": 12.6612116, "long": -0.5683399 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 9,
@@ -160,7 +507,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 1,
-      "seatsCapacity": 135
+      "seatsCapacity": 135,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 34.799583, "long": 137.3616256 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 10,
@@ -172,7 +569,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 2,
-      "seatsCapacity": 83
+      "seatsCapacity": 83,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 11,
@@ -184,7 +631,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 8,
-      "seatsCapacity": 168
+      "seatsCapacity": 168,
+      "address": {
+        "address1": "55 Florence Alley",
+        "address2": "Apt 1128",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1191",
+        "geoLocation": { "lat": 59.2830988, "long": 18.033347 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 12,
@@ -196,7 +693,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 9,
-      "seatsCapacity": 102
+      "seatsCapacity": 102,
+      "address": {
+        "address1": "3121 Forest Dale Alley",
+        "address2": "PO Box 34549",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1033",
+        "geoLocation": { "lat": -10.1269585, "long": -63.8640569 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 13,
@@ -208,7 +755,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 2,
-      "seatsCapacity": 151
+      "seatsCapacity": 151,
+      "address": {
+        "address1": "2 Boyd Parkway",
+        "address2": "PO Box 97714",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1130",
+        "geoLocation": { "lat": 14.5919106, "long": 121.0228804 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 14,
@@ -220,7 +817,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 4,
-      "seatsCapacity": 52
+      "seatsCapacity": 52,
+      "address": {
+        "address1": "598 Lukken Hill",
+        "address2": "16th Floor",
+        "state": "South Australia",
+        "country": "Australia",
+        "postalCode": "5899",
+        "geoLocation": { "lat": 28.871569, "long": 105.44174 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 15,
@@ -232,7 +879,57 @@
       "registrationDate": "1/25/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 8,
-      "seatsCapacity": 63
+      "seatsCapacity": 63,
+      "address": {
+        "address1": "1913 Forest Dale Avenue",
+        "address2": "Room 296",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postalCode": "6843",
+        "geoLocation": { "lat": 45.347492, "long": 130.642301 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 16,
@@ -244,7 +941,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 4,
-      "seatsCapacity": 113
+      "seatsCapacity": 113,
+      "address": {
+        "address1": "08 Washington Lane",
+        "address2": "14th Floor",
+        "state": "Victoria",
+        "country": "Australia",
+        "postalCode": "8383",
+        "geoLocation": { "lat": 30.39194, "long": 114.894843 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 17,
@@ -256,7 +1003,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 3,
-      "seatsCapacity": 95
+      "seatsCapacity": 95,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 18,
@@ -268,7 +1065,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 5,
-      "seatsCapacity": 167
+      "seatsCapacity": 167,
+      "address": {
+        "address1": "95 Carberry Center",
+        "address2": "Suite 17",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postalCode": "6843",
+        "geoLocation": { "lat": 12.6612116, "long": -0.5683399 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 19,
@@ -280,7 +1127,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 7,
-      "seatsCapacity": 160
+      "seatsCapacity": 160,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 34.799583, "long": 137.3616256 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 20,
@@ -292,7 +1189,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 6,
-      "seatsCapacity": 142
+      "seatsCapacity": 142,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 21,
@@ -304,7 +1251,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 10,
-      "seatsCapacity": 109
+      "seatsCapacity": 109,
+      "address": {
+        "address1": "55 Florence Alley",
+        "address2": "Apt 1128",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1191",
+        "geoLocation": { "lat": 59.2830988, "long": 18.033347 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 22,
@@ -316,7 +1313,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 4,
-      "seatsCapacity": 187
+      "seatsCapacity": 187,
+      "address": {
+        "address1": "3121 Forest Dale Alley",
+        "address2": "PO Box 34549",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1033",
+        "geoLocation": { "lat": -10.1269585, "long": -63.8640569 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 23,
@@ -328,7 +1375,57 @@
       "registrationDate": "1/27/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 8,
-      "seatsCapacity": 188
+      "seatsCapacity": 188,
+      "address": {
+        "address1": "2 Boyd Parkway",
+        "address2": "PO Box 97714",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1130",
+        "geoLocation": { "lat": 14.5919106, "long": 121.0228804 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 24,
@@ -340,7 +1437,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 9,
-      "seatsCapacity": 178
+      "seatsCapacity": 178,
+      "address": {
+        "address1": "598 Lukken Hill",
+        "address2": "16th Floor",
+        "state": "South Australia",
+        "country": "Australia",
+        "postalCode": "5899",
+        "geoLocation": { "lat": 28.871569, "long": 105.44174 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 25,
@@ -352,7 +1499,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 3,
-      "seatsCapacity": 199
+      "seatsCapacity": 199,
+      "address": {
+        "address1": "1913 Forest Dale Avenue",
+        "address2": "Room 296",
+        "state": "Western Australia",
+        "country": "Australia",
+        "postalCode": "6843",
+        "geoLocation": { "lat": 45.347492, "long": 130.642301 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 26,
@@ -364,7 +1561,57 @@
       "registrationDate": "1/25/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 3,
-      "seatsCapacity": 188
+      "seatsCapacity": 188,
+      "address": {
+        "address1": "08 Washington Lane",
+        "address2": "14th Floor",
+        "state": "Victoria",
+        "country": "Australia",
+        "postalCode": "8383",
+        "geoLocation": { "lat": 30.39194, "long": 114.894843 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 27,
@@ -376,7 +1623,57 @@
       "registrationDate": "1/26/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 10,
-      "seatsCapacity": 199
+      "seatsCapacity": 199,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 28,
@@ -388,7 +1685,40 @@
       "registrationDate": "1/25/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 6,
-      "seatsCapacity": 191
+      "seatsCapacity": 191,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 34.799583, "long": 137.3616256 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ]
     },
     {
       "id": 29,
@@ -400,7 +1730,57 @@
       "registrationDate": "1/28/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 10,
-      "seatsCapacity": 135
+      "seatsCapacity": 135,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 34.799583, "long": 137.3616256 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     },
     {
       "id": 30,
@@ -412,127 +1792,57 @@
       "registrationDate": "1/25/2023",
       "registrationClosingDate": "1/30/2023",
       "noOfSeatsPerUser": 1,
-      "seatsCapacity": 119
-    },
-    {
-      "id": 31,
-      "title": "Long Way Round",
-      "eventDescription": "In hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.\n\nAliquam quis turpis eget elit sodales scelerisque. Mauris sit amet eros. Suspendisse accumsan tortor quis turpis.",
-      "posterPath": "http://dummyimage.com/179x100.png/cc0000/ffffff",
-      "eventDate": "4/24/2022",
-      "promotionDate": "1/26/2023",
-      "registrationDate": "1/26/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 2,
-      "seatsCapacity": 179
-    },
-    {
-      "id": 32,
-      "title": "Fuel",
-      "eventDescription": "Fusce consequat. Nulla nisl. Nunc nisl.\n\nDuis bibendum, felis sed interdum venenatis, turpis enim blandit mi, in porttitor pede justo eu massa. Donec dapibus. Duis at velit eu est congue elementum.\n\nIn hac habitasse platea dictumst. Morbi vestibulum, velit id pretium iaculis, diam erat fermentum justo, nec condimentum neque sapien placerat ante. Nulla justo.",
-      "posterPath": "http://dummyimage.com/156x100.png/ff4444/ffffff",
-      "eventDate": "9/22/2022",
-      "promotionDate": "1/22/2023",
-      "registrationDate": "1/28/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 3,
-      "seatsCapacity": 119
-    },
-    {
-      "id": 33,
-      "title": "Big Mommas: Like Father, Like Son",
-      "eventDescription": "In sagittis dui vel nisl. Duis ac nibh. Fusce lacus purus, aliquet at, feugiat non, pretium quis, lectus.\n\nSuspendisse potenti. In eleifend quam a odio. In hac habitasse platea dictumst.",
-      "posterPath": "http://dummyimage.com/162x100.png/5fa2dd/ffffff",
-      "eventDate": "8/18/2022",
-      "promotionDate": "1/28/2023",
-      "registrationDate": "1/25/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 3,
-      "seatsCapacity": 83
-    },
-    {
-      "id": 34,
-      "title": "Adventures of Mary-Kate and Ashley, The: The Case of the United States Navy Adventure",
-      "eventDescription": "Duis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-      "posterPath": "http://dummyimage.com/176x100.png/ff4444/ffffff",
-      "eventDate": "2/8/2022",
-      "promotionDate": "1/27/2023",
-      "registrationDate": "1/28/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 10,
-      "seatsCapacity": 129
-    },
-    {
-      "id": 35,
-      "title": "I Think We're Alone Now",
-      "eventDescription": "In congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-      "posterPath": "http://dummyimage.com/187x100.png/ff4444/ffffff",
-      "eventDate": "11/14/2022",
-      "promotionDate": "1/27/2023",
-      "registrationDate": "1/25/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 9,
-      "seatsCapacity": 61
-    },
-    {
-      "id": 36,
-      "title": "Decoy Bride, The",
-      "eventDescription": "Duis consequat dui nec nisi volutpat eleifend. Donec ut dolor. Morbi vel lectus in quam fringilla rhoncus.\n\nMauris enim leo, rhoncus sed, vestibulum sit amet, cursus id, turpis. Integer aliquet, massa id lobortis convallis, tortor risus dapibus augue, vel accumsan tellus nisi eu orci. Mauris lacinia sapien quis libero.\n\nNullam sit amet turpis elementum ligula vehicula consequat. Morbi a ipsum. Integer a nibh.",
-      "posterPath": "http://dummyimage.com/148x100.png/cc0000/ffffff",
-      "eventDate": "8/21/2022",
-      "promotionDate": "1/30/2023",
-      "registrationDate": "1/27/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 2,
-      "seatsCapacity": 136
-    },
-    {
-      "id": 37,
-      "title": "Bachelor Weekend, The",
-      "eventDescription": "Duis aliquam convallis nunc. Proin at turpis a pede posuere nonummy. Integer non velit.\n\nDonec diam neque, vestibulum eget, vulputate ut, ultrices vel, augue. Vestibulum ante ipsum primis in faucibus orci luctus et ultrices posuere cubilia Curae; Donec pharetra, magna vestibulum aliquet ultrices, erat tortor sollicitudin mi, sit amet lobortis sapien sapien non mi. Integer ac neque.\n\nDuis bibendum. Morbi non quam nec dui luctus rutrum. Nulla tellus.",
-      "posterPath": "http://dummyimage.com/244x100.png/dddddd/000000",
-      "eventDate": "8/11/2022",
-      "promotionDate": "1/29/2023",
-      "registrationDate": "1/28/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 10,
-      "seatsCapacity": 110
-    },
-    {
-      "id": 38,
-      "title": "Freejack",
-      "eventDescription": "Vestibulum ac est lacinia nisi venenatis tristique. Fusce congue, diam id ornare imperdiet, sapien urna pretium nisl, ut volutpat sapien arcu sed augue. Aliquam erat volutpat.\n\nIn congue. Etiam justo. Etiam pretium iaculis justo.\n\nIn hac habitasse platea dictumst. Etiam faucibus cursus urna. Ut tellus.",
-      "posterPath": "http://dummyimage.com/192x100.png/dddddd/000000",
-      "eventDate": "7/1/2022",
-      "promotionDate": "1/27/2023",
-      "registrationDate": "1/28/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 9,
-      "seatsCapacity": 70
-    },
-    {
-      "id": 39,
-      "title": "Split Second",
-      "eventDescription": "Phasellus in felis. Donec semper sapien a libero. Nam dui.\n\nProin leo odio, porttitor id, consequat in, consequat ut, nulla. Sed accumsan felis. Ut at dolor quis odio consequat varius.",
-      "posterPath": "http://dummyimage.com/131x100.png/cc0000/ffffff",
-      "eventDate": "7/30/2022",
-      "promotionDate": "1/23/2023",
-      "registrationDate": "1/27/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 2,
-      "seatsCapacity": 197
-    },
-    {
-      "id": 40,
-      "title": "Alamo, The",
-      "eventDescription": "Maecenas ut massa quis augue luctus tincidunt. Nulla mollis molestie lorem. Quisque ut erat.\n\nCurabitur gravida nisi at nibh. In hac habitasse platea dictumst. Aliquam augue quam, sollicitudin vitae, consectetuer eget, rutrum at, lorem.",
-      "posterPath": "http://dummyimage.com/104x100.png/dddddd/000000",
-      "eventDate": "5/20/2022",
-      "promotionDate": "1/25/2023",
-      "registrationDate": "1/26/2023",
-      "registrationClosingDate": "1/30/2023",
-      "noOfSeatsPerUser": 7,
-      "seatsCapacity": 171
+      "seatsCapacity": 119,
+      "address": {
+        "address1": "078 Tony Plaza",
+        "address2": "Room 347",
+        "state": "New South Wales",
+        "country": "Australia",
+        "postalCode": "1424",
+        "geoLocation": { "lat": 45.8361992, "long": 16.2945325 }
+      },
+      "tags": [
+        "tag1",
+        "tag2",
+        "tag3",
+        "tag4"
+      ],
+      "eventStatus": [
+        "Pending",
+        "Postponed",
+        "Completed",
+        "Cancelled"
+      ],
+      "eventType": [
+        {
+          "paid": {
+            "fee": 100,
+            "currency": "$"
+          }
+        },
+        {
+          "free": {
+            "fee": 0
+          }
+        }
+      ],
+      "extraDetails": [
+        {
+          "question1": ""
+        },
+        {
+          "question2": ""
+        },
+        {
+          "question3": ""
+        },
+        {
+          "question4": ""
+        },
+        {
+          "question5": ""
+        }
+      ]
     }
   ]
 }
