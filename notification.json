@@ -1,0 +1,123 @@
+{
+    "notifications":[{
+        "id": 1,
+        "title": "Let's Get Those English Girls",
+        "eventStatus": "cancelled",
+        "modifiedDate": "2022-08-06",
+        "modifiedTime": "11:31 AM"
+      }, {
+        "id": 2,
+        "title": "Beyond the Clouds (Al di là delle nuvole)",
+        "eventStatus": "completed",
+        "modifiedDate": "2022-09-15",
+        "modifiedTime": "6:11 AM"
+      }, {
+        "id": 3,
+        "title": "King of Texas",
+        "eventStatus": "completed",
+        "modifiedDate": "2022-03-08",
+        "modifiedTime": "6:11 PM"
+      }, {
+        "id": 4,
+        "title": "Backflash (Backflash Blues)",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-12-21",
+        "modifiedTime": "12:32 AM"
+      }, {
+        "id": 5,
+        "title": "Best of Times, The (Mei li shi guang)",
+        "eventStatus": "completed",
+        "modifiedDate": "2022-02-09",
+        "modifiedTime": "2:13 AM"
+      }, {
+        "id": 6,
+        "title": "I Spit on Your Grave",
+        "eventStatus": "completed",
+        "modifiedDate": "2022-04-27",
+        "modifiedTime": "2:42 AM"
+      }, {
+        "id": 7,
+        "title": "American Nightmare, The",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-04-16",
+        "modifiedTime": "10:02 AM"
+      }, {
+        "id": 8,
+        "title": "Red Army",
+        "eventStatus": "postponed",
+        "modifiedDate": "2022-03-21",
+        "modifiedTime": "7:21 AM"
+      }, {
+        "id": 9,
+        "title": "Where Sleeping Dogs Lie",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-12-27",
+        "modifiedTime": "12:54 AM"
+      }, {
+        "id": 10,
+        "title": "Magnolia",
+        "eventStatus": "completed",
+        "modifiedDate": "2022-02-05",
+        "modifiedTime": "2:56 AM"
+      }, {
+        "id": 11,
+        "title": "Nightmaster (Watch the Shadows Dance)",
+        "eventStatus": "postponed",
+        "modifiedDate": "2022-11-29",
+        "modifiedTime": "10:56 PM"
+      }, {
+        "id": 12,
+        "title": "2001 Maniacs",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-08-12",
+        "modifiedTime": "5:04 PM"
+      }, {
+        "id": 13,
+        "title": "The Heart Machine",
+        "eventStatus": "cancelled",
+        "modifiedDate": "2023-01-18",
+        "modifiedTime": "8:44 AM"
+      }, {
+        "id": 14,
+        "title": "August: Osage County",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-08-03",
+        "modifiedTime": "8:00 PM"
+      }, {
+        "id": 15,
+        "title": "Kings & Queen (Rois et reine)",
+        "eventStatus": "cancelled",
+        "modifiedDate": "2022-06-04",
+        "modifiedTime": "7:11 PM"
+      }, {
+        "id": 16,
+        "title": "Twilight People, The",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-04-13",
+        "modifiedTime": "9:56 PM"
+      }, {
+        "id": 17,
+        "title": "The Hanoi Hilton",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-09-14",
+        "modifiedTime": "2:43 PM"
+      }, {
+        "id": 18,
+        "title": "Slumdog Millionaire",
+        "eventStatus": "pending",
+        "modifiedDate": "2022-10-08",
+        "modifiedTime": "2:36 PM"
+      }, {
+        "id": 19,
+        "title": "Program, The",
+        "eventStatus": "postponed",
+        "modifiedDate": "2023-01-23",
+        "modifiedTime": "11:27 PM"
+      }, {
+        "id": 20,
+        "title": "We Live Again",
+        "eventStatus": "postponed",
+        "modifiedDate": "2022-04-07",
+        "modifiedTime": "5:22 AM"
+      }]
+}
